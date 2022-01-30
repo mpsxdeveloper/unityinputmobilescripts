@@ -1,1 +1,1 @@
-Script C# para detectar multitouch na tela em Unity
+Scripts C# para detectar multitouch na tela em Unity
